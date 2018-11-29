@@ -1,0 +1,4 @@
+io\codementor\gtommee\rest_tutorial\controller\PetsController.class
+io\codementor\gtommee\rest_tutorial\models\Pets.class
+io\codementor\gtommee\rest_tutorial\RestTutorialApplication.class
+io\codementor\gtommee\rest_tutorial\repositories\PetsRepository.class

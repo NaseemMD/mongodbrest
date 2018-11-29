@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.codementor.gtommee.rest_tutorial.RestTutorialApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.215 s - in io.codementor.gtommee.rest_tutorial.RestTutorialApplicationTests
